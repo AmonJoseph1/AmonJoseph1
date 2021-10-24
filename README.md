@@ -1,5 +1,5 @@
-- 👋 Oi, eu sou @AmonJoseph1
-- 👀 Eu tenho interesse em: Jogos, Programação, Música, Filmes, Séries e Aprendizado
-- 🌱 Estou atualmente no ínicio da programação, aprendendo desde os conceitos básicos, estando também na reta final do ensino médio.
-- 💞️ Tenho procurado colaborar com empresas para dar ínico a minha independência financeira e seguir meu sonho.
-- 📫 Como me encontrar? Simples, Instagram: @amon.joseph1, Twitter: @amon_joseph1
+- 👋 Hi I am Joseph Cavalcante, but you can call me Amon.
+- 👀 I'm interested in: Games, Programming, Music, Movies and Series.
+- 🌱 I'm currently at the beginning of programming, learning from the basics, being also in the final stretch of high school.
+- 💞️ I've been looking to collaborate with companies to start my professional career and follow my dream of being a front-end developer.
+- 📫 How to find me? Simple, Instagram: @amon.joseph1, Twitter: @amon_joseph1 .
