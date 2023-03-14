@@ -1,5 +1,4 @@
-- 👋 Hi I am Joseph Cavalcante, but you can call me Amon.
-- 👀 I'm interested in: Games, Programming, Music, Movies and Series.
-- 🌱 I'm currently at the beginning of programming, learning from the basics, also being at the beginning of college
-- 💞️ I've been looking to collaborate with companies to start my professional career and follow my dream of being a front-end developer.
-- 📫 How to find me? Simple, you can reach me on Instagram: @amon.joseph1 and Twitter: @amon_joseph1 .
+So, my name is Joseph but you can call me Amon, I'm 19 years old,a Brazilian guy who loves computing, 
+I'm not in college yet but I'm already studying programming languages.
+My future plans are to act as CyberSecurity and for now I'm going to focus on front-end,
+it's going to be a long road, but I'll get there. So, that's me, enough wasting time and let's study and code.
